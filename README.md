@@ -1,7 +1,18 @@
 # git-remote-Steve
 
-
-// hallo world!
-//聽說很多人學的第一句就是要把hallo world印出來，但我記得我的第一個程式碼好像是，int i ...之類的，很痛苦的初學C語言過程，
-回過頭來，不知不覺有了第一個github專案，開啟我的developer之路..
-
+# Movie List
+A simple web application for user list to show detail info  
+---
+## Features
+- listing userList from users api
+- searching users by surname
+- add user to your favorite list
+- manage your favorite list
+---
+### Searching
+type the surname of the users in search bar
+---
+### Favorite List
+In favorite page, press the `+` button on the user's card to keep it into favorite list.
+You can checkout the favorite list in favorite buttom
+press `x` to remove it from favorite list
