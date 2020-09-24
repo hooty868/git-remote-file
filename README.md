@@ -1,6 +1,6 @@
-# git-remote-Steve
 
-# Movie List
+# Steve User List
+### first project
 A simple web application for user list to show detail info  
 ---
 ## Features
